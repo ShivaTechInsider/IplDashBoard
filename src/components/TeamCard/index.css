@@ -1,0 +1,28 @@
+.name-image-container {
+  background-color: #475569;
+  border: 2px soild #475569;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  height: 120px;
+  width: 250px;
+}
+.link-item {
+  text-decoration: none;
+  width: 45%;
+}
+.image {
+  height: 80px;
+  width: 100px;
+  margin-right: 10px;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+}
